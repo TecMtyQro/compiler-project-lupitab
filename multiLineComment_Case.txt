@@ -1,0 +1,8 @@
+<?php
+/* Esto es un comentario multilínea
+       y otra lína de comentarios 
+#other commetn
+//and another
+
+*/
+?>

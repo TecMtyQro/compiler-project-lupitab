@@ -1,0 +1,4 @@
+<?php
+'Simple String 
+ ***in PHP?'
+?>

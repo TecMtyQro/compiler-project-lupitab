@@ -1,0 +1,13 @@
+<?php
+for ($k = 10; $k++) {
+    if ($_varX == 1) {
+
+        $arrayA[0] = $varY;
+
+      if($arrayB[1] > $arrayA[3])
+          $arrayA[0] = $arrayB[1];
+
+     }
+
+}
+?>

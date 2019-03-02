@@ -1,0 +1,46 @@
+<?php
+# Simple program PHP
+
+define("C", 500);
+
+$mensaje = "Hello World";
+$_varX = $_POST["X"];
+/*
+   Array B take the X val and add 1 
+   arrayB[n] = x + n
+*/
+$arrayB = [
+      0 => $_varX,
+      1 => $_varX +1, 
+      2 => $_varX +1,   
+];
+
+//Array A use the contant C
+$arrayA = [
+      0 => C
+      1 => C + 10, 
+      2 => C + 20,   
+];
+
+$myBool = "FALSE";
+
+for ($k_ = 1; $k <= 10; $k++) {
+    if ($_varX == 1) {
+
+        $arrayA[0] = $varY;
+
+      if($arrayB[1] > $arrayA[3]){
+          $arrayA[0] = $arrayB[1];
+           $myBool = "TRUE";
+       }
+
+     }
+    else {
+       if($myBool){ 
+        $arrayA[0] = $_k;
+        $_k = 1;
+        echo ($mensaje);
+      }
+    }
+}
+?>

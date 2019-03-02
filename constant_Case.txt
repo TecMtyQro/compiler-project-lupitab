@@ -1,0 +1,5 @@
+<?php
+define("constant",     "something");
+define("constant2",    "something else");
+define("constant_NAME", "something more");
+?>

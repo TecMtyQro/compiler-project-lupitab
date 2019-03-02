@@ -1,0 +1,7 @@
+<?php
+echo 'Print mesage PHP'
+$var
+$imputVar = $_POST("imputVal")';
+$var = -4
+$_var
+?>

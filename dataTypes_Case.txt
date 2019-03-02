@@ -1,0 +1,5 @@
+-2
+0.32
+'MY STRING'
+FALSE
+TRUE

@@ -1,0 +1,8 @@
+<?php
+define("$myC", "something");
+echo myC;
+
+$var+'algo' = 4;
+echo $var;
+
+?>
